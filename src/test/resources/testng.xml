@@ -1,0 +1,7 @@
+<suite name="Time test Suite" verbose="1" >
+    <test name="Timeout Test" >
+        <classes>
+            <class name="ru.r5am.tests.TimeOutFromParameter" />
+        </classes>
+    </test>
+</suite>
